@@ -85,5 +85,3 @@ Goal : To design a learning trading agent and perform following tasks:
             
 Link : http://quantsoftware.gatech.edu/Strategy_learner
 
-
-
